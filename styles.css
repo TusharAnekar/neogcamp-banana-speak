@@ -11,3 +11,12 @@ textarea {
     margin: 1rem;
     padding: 1rem;
 }
+
+#output{
+    border: 1px solid black;
+    width: 80%;
+    height: 10vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+}
