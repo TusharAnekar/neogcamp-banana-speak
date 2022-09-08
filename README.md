@@ -12,5 +12,5 @@ This is a language used in the two movie series like Despicable Me and Minions. 
     <li>API call from <a href="https://funtranslations.com/minion">fun translations.</a></li>
 </ul>
 
-<img src="/images/MinionTranslator1.png">
-<img src="/images/MinionTranslator2.png">
+<img src="/images/MinionTranslator1.PNG">
+<img src="/images/MinionTranslator2.PNG">
